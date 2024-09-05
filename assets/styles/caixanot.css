@@ -1,0 +1,59 @@
+.feed-box {
+    padding-top: 7.7%;
+    width: 30%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    position: relative;
+}
+
+.feed {
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    position: sticky;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: left;   
+}
+.card {
+    position: relative;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    height: 12rem;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+    filter: grayscale(100%);
+}
+.card img:hover {
+    filter: none; 
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6); 
+    padding: 20px;
+    color: white;
+    border-radius: 0 0 10px 10px;
+}
+
+
+.overlay h2 {
+    margin: 0;
+    font-size: 15px;
+    line-height: 2;
+    width: 100%;
+    height: 100%;   
+}
