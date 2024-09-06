@@ -29,7 +29,7 @@
         <div class="locate">
             <a href="#brinquedos">
                 <div class="locate">
-                    <img class="img_obj_locate" src="assets/img/brinquedo.png" alt="">
+                    <img  class="img_obj_locate" src="assets/img/brinquedo.png" alt="">
                     <p class="text_obj">brinquedos</p>
                 </div>
             </a>
@@ -59,7 +59,7 @@
     <div class="card-box">
         <div class="cards">
             <div class="card">
-                <center><img class="imgs_loja" src="assets/img/racao.png" alt=""></center>
+                <center><img class="imgs_loja" src="assets/img/racao1.png" alt=""></center>
                 <p class="sell">Ração Seca Origens Class Carne e Frango para Cães Adultos</p>
                 <center>
                     <div class="preco">
@@ -71,7 +71,7 @@
             </div>
 
             <div class="card">
-                <center><img class="imgs_loja" src="assets/img/rc2.png" alt=""></center>
+                <center><img class="imgs_loja" src="assets/img/racao2.png" alt=""></center>
                 <p class="sell">Ração Tradicionalle Pet Canine Premium Especial Para Cães Adultos 15 Kg</p>
                 <center>
                     <div class="preco">
@@ -83,7 +83,7 @@
             </div>
 
             <div class="card">
-                <center><img class="imgs_loja" src="assets/img/rc3.png" alt=""></center>
+                <center><img class="imgs_loja" src="assets/img/racao3.png" alt=""></center>
                 <p class="sell">Ração para Cães de Todas as Raças Sabor Carne 7Kg</p>
                 <center>
                     <div class="preco">
@@ -95,7 +95,7 @@
             </div>
 
             <div class="card">
-                <center><img class="imgs_loja" src="assets/img/rc4.png" alt=""></center>
+                <center><img class="imgs_loja" src="assets/img/racao4.png" alt=""></center>
                 <p class="sell">Ração Fórmula Natural Cães Adultos Médios e Grandes 15kg</p>
                 <center>
                     <div class="preco">
@@ -336,3 +336,5 @@
         </div>
     </div>
 </section>
+
+

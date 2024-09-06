@@ -29,7 +29,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background-color: #e6f7ff;
+  background-color: #ffffff;
 }
 
 .buy-btn {
@@ -146,7 +146,7 @@ input#search-bar {
   display: flex;
   padding: 1rem;
   padding-right: 8rem;
-  color: #000000;
+  color: #008cff;
 }
 .locate{
   justify-content: center;
