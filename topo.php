@@ -10,7 +10,6 @@
  
   <script defer src="assets/js/navbar.js"></script>
   <script defer src="assets/js/number.js"></script>
-  <script src="assets/js/counter.js"></script>
 
   <!-- Incluindo jQuery e jQuery UI -->
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">

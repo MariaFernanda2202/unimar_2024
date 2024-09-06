@@ -1,3 +1,4 @@
+     <div class="cor_fundo">
      <div class="central">
          <h1 class="title">Dicas e curiosidades</h1>
      </div>
@@ -112,11 +113,13 @@
                  <h1 class="subtitle">Como saber quando meu melhor amigo não está bem?</h1>
                  <p class="conteudo">Mudanças no Comportamento:</p>
                  <p class="pesq">Comunicação</p>
+                 <img class="rabinho" src="assets/img/dog_sentado.png" alt="">
                  <p class="pesq">Sinais Físicos</p>
                  <p class="pesq">Mudanças nos Hábitos</p>
                  <p class="pesq">Abertura e Perguntas</p>
                  <p class="pesq">Ações e Decisões Incomuns</p>
              </section>
+
              <section id="hotcold">
                  <h1 class="subtitle">O que fazer em dias muito quentes ou muito frios?</h1>
                  <p class="conteudo">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod obcaecati nisi
@@ -124,7 +127,7 @@
                      temporibus ex ea earum praesentium aspernatur incidunt sit accusamus beatae minima facilis iusto optio
                      ducimus debitis eos.</p>
              </section>
-             <img class="rabinho" src="assets/img/rabinho.png" alt="">
+
              <section id="rabinho">
                  <h1 class="subtitle">Seu melhor amigo balança o rabinho quando te vê? Saiba o porquê.</h1>
                  <p class="conteudo">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti, voluptates
@@ -145,7 +148,7 @@
      </center>
 
 
-
+     </div>
 
      <script>
          $(function() {
@@ -161,3 +164,4 @@
              'color': 'white',
          });
      </script>
+     
