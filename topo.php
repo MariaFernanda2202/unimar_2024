@@ -33,8 +33,8 @@
         <li><a href="#ouvidoria">Ouvidoria</a></li>
         <li><a href="index.php?p=2">Dicas e Curiosidades</a></li>
         <li><a href="index.php?p=3">Nossa Veterinária</a></li>
-        <li><a href="#">Contato</a></li>
-        <li><a href="index.php?p=5  ">Nossa Loja</a></li>
+        <li><a href="index.php?p=6">Contato</a></li>
+        <li><a href="index.php?p=5">Nossa Loja</a></li>
         <li><a href="index.php?p=4" class="btn">login</a></li>
       </ul>
     </nav>

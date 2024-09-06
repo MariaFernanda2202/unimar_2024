@@ -1016,5 +1016,26 @@ form {
 }
 
 .cor_fundo{
-    background-color: #6098b3;
+    background-color: #e6f7ff;;
+}
+
+.contato-box{
+    width: 50%;
+    background-color: #005bb5;
+    border-radius: 20px;
+    height: 20rem;
+}
+
+.title_contato{
+    font-size: 1.5rem;
+    color: #fff;
+}
+.input_contato{
+    width: 80%;
+}
+.motivo_contato{
+    padding: 10px;
+}
+.espaco_contato{
+    padding: 5rem;
 }

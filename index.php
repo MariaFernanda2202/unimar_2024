@@ -1,6 +1,6 @@
 <?php
 include "topo.php";
-?> 
+?>
 <?php
 if (isset($_GET['p'])) {
     $p = $_GET['p'];
@@ -19,9 +19,12 @@ if (isset($_GET['p'])) {
         case 4:
             include "login.php";
             break;
-            case 5:
-                include "nossaloja.php";
-                break;
+        case 5:
+            include "nossaloja.php";
+            break;
+        case 6:
+            include "contato.php";
+            break;
         default:
             include "meio.php";
             include "consulta.php";

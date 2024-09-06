@@ -1,3 +1,4 @@
+
 <header>
     <link rel="stylesheet" href="assets/styles/cards.css">
 </header>
@@ -322,11 +323,11 @@
 
             <div class="card">
                 <center><img class="imgs_loja" src="assets/img/h4.png" alt=""></center>
-                <p class="sell">Arranhador GATO LUXO SUSPENSO Chalesco para Gatos</p>
+                <p class="sell">Tratamento para Orelhas de alta qualidade para o seu pet</p>
                 <center>
                     <div class="preco">
-                        <h1>R$299,30</h1>
-                        <span>293,25</span>
+                        <h1>R$18,90</h1>
+                        <span>19,70</span>
                     </div>
                     <a href="A" class="buy-btn">Comprar</a>
                 </center>
