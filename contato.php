@@ -10,4 +10,4 @@
             <input class="input_contato" type="text">
         </div>
     </div>
-</center>
+</center> 
